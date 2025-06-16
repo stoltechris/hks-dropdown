@@ -2,7 +2,7 @@
 
 Thanks for considering me for the team at Growth Lab!
 
-## Note:
+### Note:
 
 This project uses Vite as the build system, which requires Node.js version 18+ or 20+. Please upgrade if your package manager warns about it.
 
