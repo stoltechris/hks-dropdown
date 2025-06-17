@@ -1,6 +1,5 @@
 # Front-end Skill Test: Building a Dropdown Menu
 
-Thanks for considering me for the team at Growth Lab!
 
 ### Note:
 
@@ -11,7 +10,7 @@ This project uses Vite as the build system, which requires Node.js version 18+ o
 Open a terminal and run
 
 ```
-cd hks-network
+cd hks-dropdown
 npm install
 npm run dev
 ```
